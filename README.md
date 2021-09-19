@@ -1,7 +1,7 @@
 # Delani-Studio-IP
 
 <h1>Project name.</h1>
-Akan Name Generator
+Delani studio IP
 <h1>Project description.</h1>
 <p>implementing everything I have learnt from Bootstrap and jQuery to recreate a landing page for a fictional studio</p>
 <h1>Author</h1>
