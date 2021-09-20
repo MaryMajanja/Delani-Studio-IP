@@ -1,5 +1,4 @@
 # Delani-Studio-IP
-<p>implementing everything I have learnt from Bootstrap and jQuery to recreate a landing page for a fictional studio</p>
 <h1>Project name.</h1>
 Delani studio IP
 <h1>Project description.</h1>
